@@ -108,7 +108,7 @@ $(document).ready(function(){
         }
 
     }
-
+// display currencies
     function displayCurrencies(countries){
 
         tableBodyCurrencies.innerHTML = '';
